@@ -32,7 +32,6 @@ Aucune autre donnée n'est collectée ni stockée.
 1. **Connectez-vous** via votre compte Discord sur **DiscBotList.com**.
 2. Recherchez le bot que vous souhaitez soutenir dans la liste.
 3. Cliquez sur le bouton **Voter** pour augmenter sa popularité.
-4. Vous pouvez voter une fois par bot et par jour.
 
 ## Avantages
 
